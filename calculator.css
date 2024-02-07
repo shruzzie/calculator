@@ -1,0 +1,44 @@
+body{
+    margin:0;
+    background-color:rgb(252, 175, 201);
+
+
+}
+
+.heading{
+    display: block;
+    margin:auto;
+    margin-top: 50px;
+}
+
+.calculate{
+    margin: auto;
+    background-color: palevioletred;
+    height : 250px;
+    width:250px;
+    padding: 20px;
+    border-radius: 10px;
+    
+}
+
+.sanrio{
+    display: block;
+    margin:auto;
+
+}
+
+input[type=button] {
+    font-family: 'Orbitron', sans-serif;
+    background-color: #f577b2;
+    color: white;
+    border: solid rgb(199, 9, 136) 0.5px;
+    width: 100%;
+    border-radius: 5px;
+    height: 70%;
+    outline: none;
+}
+
+input[type=button]:hover{
+    background-color: #fd9dd5;
+    color: #ca10a2;
+}
